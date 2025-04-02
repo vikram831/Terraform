@@ -1,0 +1,7 @@
+#boost-cart-app
+{
+	display: none !important;
+}
+a.site-header__icon.site-header__cart {
+    cursor: pointer;
+}

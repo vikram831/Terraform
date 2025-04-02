@@ -1,0 +1,1 @@
+^(https?:\/\/)?(www\.)?yagcho\.de(?!(.*\/(checkouts|orders)))
